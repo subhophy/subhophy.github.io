@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 4th year physics PhD student @ <a href='https://www.ucdavis.edu'>UC Davis</a> 
+subtitle: 4th year physics PhD student @ <a href='https://physics.ucdavis.edu/'>UC Davis</a> 
 
 profile:
   align: right
