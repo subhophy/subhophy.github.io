@@ -18,7 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<br>
 
 I work on quantization of manifolds with a focus on associated geometric structures. My adviser is <a href='https://www.math.ucdavis.edu/people/general-profile?fac_id=wally'>Andrew Waldron</a>.
 
