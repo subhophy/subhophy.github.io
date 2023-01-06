@@ -9,7 +9,7 @@ nav_order: 2
 
 I am currently an AI (associate instructor) for [physics 7A](https://physics.ucdavis.edu/undergraduates/academic-information/physics-courses). I was an AI for the same course back in summer 2022.
 
-I have TAed for the following upper-division and graduate courses in the past
+I have TAed for the following upper-division and graduate courses
 
 1. **PHY 115A** (Foundations of Quantum Mechanics) in Spring 2021 
 2. **PHY 260** (Introduction to General Relativity) in Fall 2021
