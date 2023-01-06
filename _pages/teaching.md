@@ -17,7 +17,7 @@ I have TAed for the following upper-division and graduate courses in the past
 4. **PHY 104B** (Computational Methods in Physics) in Winter 2022
 5. **PHY 110B** (Electricity and Magnetism) in Spring 2022
 
-I have also led discussion labs of physics 7 series multiple times
+I have also led discussion labs of physics 7 series several times
 
 1. **PHY 7A** - Winter 2020, Spring 2020, Summer 2020, Fall 2020, Fall 2022
 2. **PHY 7B** - Fall 2019, Winter 2021, Summer 2021
