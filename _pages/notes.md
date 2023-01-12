@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: research & notes
+title: Research & Notes
 description:
 nav: true
 nav_order: 3
