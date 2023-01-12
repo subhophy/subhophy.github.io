@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am working on quantization of manifolds with a focus on associated geometric structures. My adviser is <a href='https://www.math.ucdavis.edu/people/general-profile?fac_id=wally'>Andrew Waldron</a>.
+I am a member of the <a href='https://qmap.ucdavis.edu'>QMAP</a> group at UC Davis. I am currently working on quantization of manifolds with a focus on associated geometric structures. My adviser is <a href='https://www.math.ucdavis.edu/people/general-profile?fac_id=wally'>Andrew Waldron</a>.
 
 You can see my cv [here]({{ site.url }}/assets/pdf/Subho_CV.pdf).  
