@@ -1,11 +1,13 @@
 ---
 layout: page
-permalink: /notes/
-title: notes
+permalink: /research/
+title: Research & Notes
 description:
 nav: true
 nav_order: 3
 ---
+
+The following are some notes on my existing and past research.
 
 1. QE (qualifying exam) [slides]({{ site.url }}/assets/pdf/QEslides.pdf) on quantization of odd dimensional symplectic manifolds
 2. QE [writeup]({{ site.url }}/assets/pdf/writeup_brst.pdf) on BRST and deformation quantization 
