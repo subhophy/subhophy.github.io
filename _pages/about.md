@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 4th year physics PhD student @ <a href='https://physics.ucdavis.edu/'>UC Davis</a> 
+subtitle:  
 
 profile:
   align: right
@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-I am a member of the <a href='https://qmap.ucdavis.edu'>QMAP</a> group at UC Davis. I am currently working on quantization of manifolds with a focus on associated geometric structures. My adviser is <a href='https://www.math.ucdavis.edu/people/general-profile?fac_id=wally'>Andrew Waldron</a>.
+I am a 4th year physics PhD candidate at <a href='https://physics.ucdavis.edu/'>UC Davis </a>. I am working with Prof. <a href='https://www.math.ucdavis.edu/people/general-profile?fac_id=wally'>Andrew Waldron</a> in the <a href='https://qmap.ucdavis.edu'>QMAP</a> group. My research is in quantization of manifolds with a focus on associated geometric structures.
 
 You can see my cv [here]({{ site.url }}/assets/pdf/Subho_CV.pdf).  
