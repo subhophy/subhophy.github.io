@@ -2,10 +2,10 @@
 layout: page
 title: ROR
 permalink: /ror/
-subtitle:
+description:
 nav: true
 nav_order: 4 
- ---
+---
  
  We are currently organizing ....
  
