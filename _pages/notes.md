@@ -14,4 +14,4 @@ The following are some notes on my existing and past research.
 3. Master's [thesis]({{ site.url }}/assets/pdf/masters_thesis.pdf) on non-local divergences in open scalar field theory 
 
 
-[Review problems]({{ site.url }}/assets/pdf/Reviewprob.pdf) for phy 7C spring 2023
+<!-- [Review problems]({{ site.url }}/assets/pdf/Reviewprob.pdf) for phy 7C spring 2023 -->
