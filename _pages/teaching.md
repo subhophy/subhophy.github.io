@@ -8,12 +8,12 @@ nav_order: 2
 ---
 
 
-<!--
-I am currently an AI (associate instructor) for [physics 7C](https://physics.ucdavis.edu/undergraduates/academic-information/physics-courses) (intro physics for bio/chem majors).-->
+
+I am currently an AI (associate instructor) for [physics 9A](https://physics.ucdavis.edu/undergraduates/academic-information/physics-courses) (intro physics for physical science and engineering majors).
 
 I have been an AI (associate instructor) for the following courses:
 
-1. **Physics 7A** in Summer 2022 and Winter 2023
+1. **Physics 7A** in Summer 2022, Winter 2023 and 2024 
 2. **Physics 7C** in Spring 2023
 
 I have TAed for the following upper-division and graduate courses
