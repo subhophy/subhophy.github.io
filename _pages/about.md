@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: newpic.png
+  image: newpic.jpeg
   image_circular: false # crops the image to make it circular
   address: 
     <p>3013 PSEL,</p>
