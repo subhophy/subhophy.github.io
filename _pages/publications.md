@@ -16,4 +16,8 @@ published: true
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
+{% if entry.doi %}
+  <a href="https://doi.org/{{ entry.doi }}" target="_blank">DOI: {{ entry.doi }}</a>
+{% endif %}
+
 </div>
